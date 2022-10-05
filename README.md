@@ -67,3 +67,19 @@
 >>         collaborators can discuss and review the changes before finally committing the pull request. 
 >> - Remote: A remote repository that is hosted on the internet or another network.
 >> - Repository: Tracks and saves the changes made to a file in a Git project.
+
+> ## References
+>> - *Introduction to GitHub and Webstorm Presentation* - https://njit.instructure.com/courses/25694/files/3891026?module_item_id=881262
+>> - https://git-scm.com/
+>> - https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+>> - https://phoenixnap.com/kb/what-is-a-git-repository
+>> - https://www.simplilearn.com/tutorials/git-tutorial/what-is-git
+>> - https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches
+>> - https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+>> - https://www.w3schools.com/git/git_commit.asp
+>> - https://www.atlassian.com/git/tutorials/syncing/git-fetch#:~:text=Git%20fetch%20summary,the%20state%20of%20a%20remote.
+>> - https://www.atlassian.com/git/tutorials/syncing/git-push#:~:text=The%20git%20push%20command%20is,exports%20commits%20to%20remote%20branches.
+>> - https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone#:~:text=git%20clone%20is%20primarily%20used,copies%20an%20existing%20Git%20repository.
+>> - https://www.atlassian.com/git/tutorials/using-branches/git-merge#:~:text=Merging%20is%20Git's%20way%20of,merge%20into%20the%20current%20branch.
+>> - https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts
+>> - https://www.gitkraken.com/learn/git/tutorials/what-is-git-remote
