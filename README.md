@@ -39,12 +39,31 @@
 >> - In the upper-right corner of your screen (*next to your pfp*), click the plus button.
 >> - Click "Create New Repository"
 >>   - In the repository setup, you can add a README.md file (*like this one*) and you can set the repository to either public (*anyone can see it*) or private (*you can choose who can and cannot see it*).
+
 > ### Creating Repositories Through Webstorm
 >> - Select VCS -> Import -> Version Control
 >> - Choose where the repository will be created
 >> - Give it a name and create
+
 > ### Importing a Repository from GitHub
 >> - From Main page Select Version Control-> Git **OR** From within Webstorm Select VCS -> Version Control -> Git
 >> - Enter Github repository name 
 >> - Enter local path name
->> - 
+
+> ## Glossary
+>> - Branch: Allows users to fix bugs and safely experiment their ideas in a "contained area of your repository"
+>> - Clone: A command that is used to make a copy or "clone" an already existing repository in a different location.
+>> - Commit: Used to track the progress and changes of the user's code. Users should **ALWAYS** include a message with 
+>>           their commit explaining what the commit was
+>> - Fetch: A command used to download the contents of a remote repository. Works with other commands 
+>>          to update a local repository to match the state of a remote repository.
+>> - Git: A version control allowing the user to manage and track their source code's history. 
+>> - GitHub: A cloud-based hosting service that makes it easier for users to track their Git repositories.
+>> - Merge: A command used to combine two lines of development created by a Git branch and "merging" them into one branch.
+>> - Merge Conflict: Occurs when two collaborators try to edit the same code. To resolve a conflict, the two developers 
+>>                   must work in different branches.
+>> - Push: A command used to update a remote repository with a local repository's content.
+>> - Pull: A request that lets other collaborators know about the user's changes that they pushed. Within the request,
+>>         collaborators can discuss and review the changes before finally committing the pull request. 
+>> - Remote: A remote repository that is hosted on the internet or another network.
+>> - Repository: Tracks and saves the changes made to a file in a Git project.
